@@ -1,0 +1,5 @@
+duckchi 1 else
+35 50
+duckchi 2 else
+50 50
+4250
